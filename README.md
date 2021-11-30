@@ -16,3 +16,5 @@ psycopg2
 tkinter
 webbrowser
 platform
+
+### You will need to request the password to access the database
