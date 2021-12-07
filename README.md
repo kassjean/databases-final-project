@@ -18,3 +18,5 @@ webbrowser
 platform
 
 ### You will need to request the password to access the database
+
+The password needs to be put in a file called passkey.py - password = ' '
